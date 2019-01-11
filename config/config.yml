@@ -1,0 +1,14 @@
+mongo:
+  host: localhost
+  port: 27017
+#  username: zhuzhu
+#  password: 12364
+  authSource: admin
+#  authMechanism: SCRAM-SHA-1
+
+mysql:
+  host: 192.168.3.98
+  port: 3306
+  user: root
+  passwd: root
+  database: test
