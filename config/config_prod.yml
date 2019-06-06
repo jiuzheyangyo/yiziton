@@ -1,0 +1,18 @@
+mongo:
+#  host: 118.126.101.125
+#  port: 27018
+#  username: zhujunrong
+#  password: 0EO5L64nLRAlQ7cQ
+  host: 134.175.53.237
+  port: 27022
+  username: mongodb_prd_ro
+  password: aXJvTREpClMSW36j
+  authSource: admin
+  authMechanism: SCRAM-SHA-1
+
+mysql:
+  host: 118.126.101.200
+  port: 37951
+  user: looker
+  passwd: 16Gw6sMhI%paCDbV
+  database: yzt_newips2
